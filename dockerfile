@@ -1,1 +1,1 @@
-FROM 185445087475.dkr.ecr.ap-southeast-2.amazonaws.com/tfnsw/uat-b2bapigateway:v0.12
+FROM 185445087475.dkr.ecr.ap-southeast-2.amazonaws.com/tfnsw/uat-b2bapigateway:19
