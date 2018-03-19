@@ -1,4 +1,4 @@
-# Versiojn v0.13
+# Versiojn v13
 
 FROM 185445087475.dkr.ecr.ap-southeast-2.amazonaws.com/tfnsw/uat-b2bapigateway:v0.13
 
